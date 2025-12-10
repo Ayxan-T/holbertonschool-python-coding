@@ -3,5 +3,5 @@
     a module with a class Square
 """
 class Square:
-    __init__(self, size):
+    def __init__(self, size):
         self.__size = size
